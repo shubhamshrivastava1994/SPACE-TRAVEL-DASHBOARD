@@ -1,0 +1,330 @@
+Spacecraft,Vehicle,Launch,Return,Mission Number,Status,Earth Orbit,Lunar Orbit,Station Visited,Destination
+Vostok 1,Vostok-K,21-04-1961 06:07,21-04-1961 07:55,1,Returned,TRUE,FALSE,,Earth Orbit
+Mercury-Redstone 3,Mercury-Redstone Launch Vehicle,05-05-1961 14:34,05-05-1961 14:49,2,Returned,FALSE,FALSE,,Non-orbital space
+Mercury-Redstone 4,Mercury-Redstone Launch Vehicle,21-07-1961 12:20,21-07-1961 12:36,3,Returned,FALSE,FALSE,,Non-orbital space
+Vostok 2,Vostok-K,06-08-1961 06:00,07-08-1961 07:18,4,Returned,TRUE,FALSE,,Earth Orbit
+Mercury-Atlas 6,Atlas LV-3B,20-02-1962 14:47,20-02-1962 19:43,5,Returned,TRUE,FALSE,,Earth Orbit
+Mercury-Atlas 7,Atlas LV-3B,24-05-1962 12:45,24-05-1962 17:41,6,Returned,TRUE,FALSE,,Earth Orbit
+Vostok 3,Vostok-K,11-08-1962 08:24,15-08-1962 06:52,7,Returned,TRUE,FALSE,,Earth Orbit
+Vostok 4,Vostok-K,12-08-1962 08:02,15-08-1962 06:59,8,Returned,TRUE,FALSE,,Earth Orbit
+Mercury-Atlas 8,Atlas LV-3B,03-10-1962 12:15,03-10-1962 21:28,9,Returned,TRUE,FALSE,,Earth Orbit
+Mercury-Atlas 9,Atlas LV-3B,15-05-1963 13:04,16-05-1963 23:24,10,Returned,TRUE,FALSE,,Earth Orbit
+Vostok 5,Vostok-K,14-06-1963 11:58,19-06-1963 11:06,11,Returned,TRUE,FALSE,,Earth Orbit
+Vostok 6,Vostok-K,16-06-1963 09:29,19-06-1963 08:20,12,Returned,TRUE,FALSE,,Earth Orbit
+"X-15, Flight 90",X-15,19-07-1963 18:20,19-07-1963 18:31,13,Returned,FALSE,FALSE,,Non-orbital space
+"X-15, Flight 91",X-15,22-08-1963 18:05,22-08-1963 18:17,14,Returned,FALSE,FALSE,,Non-orbital space
+Voskhod 1,Voskhod,12-10-1964 07:30,13-10-1964 07:47,15,Returned,TRUE,FALSE,,Earth Orbit
+Voskhod 2,Voskhod,18-03-1965 07:00,19-03-1965 09:02,16,Returned,TRUE,FALSE,,Earth Orbit
+Gemini 3,Titan II GLV,23-03-1965 14:24,23-03-1965 19:17,17,Returned,TRUE,FALSE,,Earth Orbit
+Gemini 4,Titan II GLV,03-06-1965 15:16,07-06-1965 17:12,18,Returned,TRUE,FALSE,,Earth Orbit
+Gemini 5,Titan II GLV,21-08-1965 14:00,29-08-1965 12:55,19,Returned,TRUE,FALSE,,Earth Orbit
+Gemini 7,Titan II GLV,04-12-1965 19:30,18-12-1965 14:05,20,Returned,TRUE,FALSE,,Earth Orbit
+Gemini 6,Titan II GLV,15-12-1965 13:37,16-12-1965 15:28,21,Returned,TRUE,FALSE,,Earth Orbit
+Gemini 8,Titan II GLV,16-03-1966 16:41,17-03-1966 03:22,22,Returned,TRUE,FALSE,,Earth Orbit
+Gemini 9,Titan II GLV,03-06-1966 13:39,06-06-1966 14:00,23,Returned,TRUE,FALSE,,Earth Orbit
+Gemini 10,Titan II GLV,18-07-1966 22:20,21-07-1966 21:07,24,Returned,TRUE,FALSE,,Earth Orbit
+Gemini 11,Titan II GLV,12-09-1966 14:42,15-09-1966 13:59,25,Returned,TRUE,FALSE,,Earth Orbit
+Gemini 12,Titan II GLV,11-11-1966 20:46,15-11-1966 19:21,26,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz 1,Soyuz,23-04-1967 00:35,24-04-1967 03:22,27,Fail-to-land,TRUE,FALSE,,Earth Orbit
+Apollo 7,Saturn IB,11-10-1968 15:02,22-10-1968 11:11,28,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz 3,Soyuz-U,26-10-1968 08:34,30-10-1968 07:25,29,Returned,TRUE,FALSE,,Earth Orbit
+Apollo 8,Saturn V,21-12-1968 12:51,27-12-1968 15:52,30,Returned,TRUE,TRUE,,Moon
+Soyuz 4,Soyuz,14-01-1969 07:30,17-01-1969 06:51,31,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz 5,Soyuz,15-01-1969 07:04,18-01-1969 07:58,32,Returned,TRUE,FALSE,,Earth Orbit
+Apollo 9,Saturn V,03-03-1969 16:00,13-03-1969 17:01,33,Returned,TRUE,FALSE,,Earth Orbit
+Apollo 10,Saturn V,18-05-1969 16:49,26-05-1969 16:52,34,Returned,TRUE,TRUE,,Moon
+Apollo 11,Saturn V,16-07-1969 13:32,24-07-1969 16:51,35,Returned,TRUE,TRUE,,Moon
+Soyuz 6,Soyuz,11-10-1969 11:10,16-10-1969 09:53,36,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz 7,Soyuz,12-10-1969 10:44,17-10-1969 09:24,37,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz 8,Soyuz,13-10-1969 10:19,18-10-1969 09:10,38,Returned,TRUE,FALSE,,Earth Orbit
+Apollo 12,Saturn V,14-11-1969 16:22,24-11-1969 20:58,39,Returned,TRUE,TRUE,,Moon
+Apollo 13,Saturn V,11-04-1970 19:13,17-04-1970 18:08,40,Returned,TRUE,TRUE,,Moon
+Soyuz 9,Soyuz,01-06-1970 19:00,19-06-1970 11:59,41,Returned,TRUE,FALSE,,Earth Orbit
+Apollo 14,Saturn V,31-01-1971 21:03,09-02-1971 21:05,42,Returned,TRUE,TRUE,,Moon
+Soyuz 10,Soyuz,22-04-1971 23:54,24-04-1971 23:40,43,Returned,TRUE,FALSE,Salyut 1,Other Space station
+Soyuz 11,Soyuz,06-06-1971 04:55,29-06-1971 23:16,44,Fail-to-land,TRUE,FALSE,Salyut 1,Other Space station
+Apollo 15,Saturn V,26-07-1971 13:34,07-08-1971 20:46,45,Returned,TRUE,TRUE,,Moon
+Apollo 16,Saturn V,16-04-1972 17:54,27-04-1972 19:45,46,Returned,TRUE,TRUE,,Moon
+Apollo 17,Saturn V,07-12-1972 05:33,19-12-1972 19:25,47,Returned,TRUE,TRUE,,Moon
+Skylab 2,Saturn IB,25-05-1973 13:00,22-06-1973 13:50,48,Returned,TRUE,FALSE,Skylab,Other Space station
+Skylab 3,Saturn IB,28-07-1973 11:10,25-09-1973 22:20,49,Returned,TRUE,FALSE,Skylab,Other Space station
+Soyuz 12,Soyuz,27-09-1973 12:18,29-09-1973 11:33,50,Returned,TRUE,FALSE,,Earth Orbit
+Skylab 4,Saturn IB,16-11-1973 14:01,08-02-1974 15:16,51,Returned,TRUE,FALSE,Skylab,Other Space station
+Soyuz 13,Soyuz,18-12-1973 11:55,26-12-1973 08:51,52,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz 14,Soyuz,03-07-1974 18:51,19-07-1974 12:21,53,Returned,TRUE,FALSE,Salyut 3,Other Space station
+Soyuz 15,Soyuz,26-08-1974 10:08,28-08-1974 10:20,54,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz 16,Soyuz-U,02-12-1974 15:00,08-12-1974 13:24,55,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz 17,Soyuz,10-01-1975 21:43,09-02-1975 11:03,56,Returned,TRUE,FALSE,Salyut 4,Other Space station
+Soyuz 18A,Soyuz,05-04-1975 14:58,05-04-1975 15:19,57,Returned,FALSE,FALSE,,Non-orbital space
+Soyuz 18B,Soyuz,24-05-1975 14:58,26-07-1975 14:18,58,Returned,TRUE,FALSE,Salyut 4,Other Space station
+Apollo 18-ASTP,Saturn IB,15-07-1975 12:20,24-07-1975 13:48,60,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz 19-ASTP,Soyuz-U,15-07-1975 14:58,21-07-1975 13:29,59,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz 21,Soyuz,06-07-1976 12:08,24-08-1976 18:32,61,Returned,TRUE,FALSE,Salyut 5,Other Space station
+Soyuz 22,Soyuz,15-09-1976 09:48,23-09-1976 07:40,62,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz 23,Soyuz,14-10-1976 17:39,16-10-1976 17:46,63,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz 24,Soyuz-U,07-02-1977 16:11,25-02-1977 09:38,64,Returned,TRUE,FALSE,Salyut 5,Other Space station
+Soyuz 25,Soyuz-U,09-10-1977 02:40,11-10-1977 03:25,65,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz 26,Soyuz-U,10-12-1977 01:18,16-01-1978 11:24,66,Returned,TRUE,FALSE,Salyut 6,Other Space station
+Soyuz 27,Soyuz-U,10-01-1978 12:26,16-03-1978 11:19,67,Returned,TRUE,FALSE,Salyut 6,Other Space station
+Soyuz 28,Soyuz-U,02-03-1978 15:28,10-03-1978 13:44,68,Returned,TRUE,FALSE,Salyut 6,Other Space station
+Soyuz 29,Soyuz-U,15-06-1978 20:16,03-09-1978 11:40,69,Returned,TRUE,FALSE,Salyut 6,Other Space station
+Soyuz 30,Soyuz-U,27-06-1978 15:27,05-07-1978 13:30,70,Returned,TRUE,FALSE,Salyut 6,Other Space station
+Soyuz 31,Soyuz-U,26-08-1978 14:51,02-11-1978 11:04,71,Returned,TRUE,FALSE,Salyut 6,Other Space station
+Soyuz 32,Soyuz-U,25-02-1979 11:53,13-06-1979 16:18,72,Returned,TRUE,FALSE,Salyut 6,Other Space station
+Soyuz 33,Soyuz-U,10-04-1979 17:34,12-04-1979 16:35,73,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz 34,Soyuz-U,06-06-1979 18:12,19-08-1979 12:29,74,Returned,TRUE,FALSE,Salyut 6,Other Space station
+Soyuz 35,Soyuz-U,10-04-1980 01:16,04-06-1980 02:44,75,Returned,TRUE,FALSE,Salyut 6,Other Space station
+Soyuz 36,Soyuz-U,26-05-1980 18:20,31-07-1980 15:14,76,Returned,TRUE,FALSE,Salyut 6,Other Space station
+Soyuz T-2,Soyuz-U,05-06-1980 14:19,09-06-1980 12:39,77,Returned,TRUE,FALSE,Salyut 6,Other Space station
+Soyuz 37,Soyuz-U,23-07-1980 18:33,11-10-1980 09:50,78,Returned,TRUE,FALSE,Salyut 6,Other Space station
+Soyuz 38,Soyuz-U,18-09-1980 19:11,26-09-1980 15:54,79,Returned,TRUE,FALSE,Salyut 6,Other Space station
+Soyuz T-3,Soyuz-U,27-11-1980 14:18,10-12-1980 09:26,80,Returned,TRUE,FALSE,Salyut 6,Other Space station
+Soyuz T-4,Soyuz-U,12-03-1981 19:00,26-05-1981 12:37,81,Returned,TRUE,FALSE,Salyut 6,Other Space station
+Soyuz 39,Soyuz-U,22-03-1981 14:58,30-03-1981 11:40,82,Returned,TRUE,FALSE,Salyut 6,Other Space station
+"STS-1, Columbia",Space Shuttle,12-04-1981 12:00,14-04-1981 18:22,83,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz 40,Soyuz-U,14-05-1981 17:16,22-05-1981 14:58,84,Returned,TRUE,FALSE,Salyut 6,Other Space station
+"STS-2, Columbia",Space Shuttle,12-11-1981 15:10,14-11-1981 21:24,85,Returned,TRUE,FALSE,,Earth Orbit
+"STS-3, Columbia",Space Shuttle,22-03-1982 16:00,30-03-1982 16:06,86,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz T-5,Soyuz-U,13-05-1982 09:58,27-08-1982 15:04,87,Returned,TRUE,FALSE,Salyut 7,Other Space station
+Soyuz T-6,Soyuz-U,24-06-1982 16:29,02-07-1982 14:20,88,Returned,TRUE,FALSE,Salyut 7,Other Space station
+"STS-4, Columbia",Space Shuttle,27-06-1982 15:00,04-07-1982 16:11,89,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz T-7,Soyuz-U,19-08-1982 17:11,10-12-1982 19:02,90,Returned,TRUE,FALSE,Salyut 7,Other Space station
+"STS-5, Columbia",Space Shuttle,11-11-1982 12:19,16-11-1982 14:34,91,Returned,TRUE,FALSE,,Earth Orbit
+"STS-6, Challenger",Space Shuttle,04-04-1983 18:30,09-04-1983 18:55,92,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz T-8,Soyuz-U,20-04-1983 13:10,22-04-1983 13:28,93,Returned,TRUE,FALSE,,Earth Orbit
+"STS-7, Challenger",Space Shuttle,18-06-1983 11:33,24-06-1983 13:58,94,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz T-9,Soyuz-U,27-06-1983 09:12,23-11-1983 19:58,95,Returned,TRUE,FALSE,Salyut 7,Other Space station
+"STS-8, Challenger",Space Shuttle,30-08-1983 06:32,05-09-1983 07:42,96,Returned,TRUE,FALSE,,Earth Orbit
+"STS-9, Columbia",Space Shuttle,28-11-1983 16:00,08-12-1983 23:48,97,Returned,TRUE,FALSE,,Earth Orbit
+"41-B, Challenger",Space Shuttle,03-02-1984 13:00,11-02-1984 12:17,98,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz T-10B,Soyuz-U,08-02-1984 12:07,11-04-1984 10:48,99,Returned,TRUE,FALSE,Salyut 7,Other Space station
+Soyuz T-11,Soyuz-U,03-04-1984 13:08,02-10-1984 10:57,100,Returned,TRUE,FALSE,Salyut 7,Other Space station
+"41-C, Challenger",Space Shuttle,06-04-1984 13:58,13-04-1984 13:39,101,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz T-12,Soyuz-U2,17-07-1984 17:40,29-07-1984 12:55,102,Returned,TRUE,FALSE,Salyut 7,Other Space station
+"41-D, Discovery",Space Shuttle,30-08-1984 12:41,05-09-1984 13:38,103,Returned,TRUE,FALSE,,Earth Orbit
+"41-G, Challenger",Space Shuttle,05-10-1984 11:03,13-10-1984 16:28,104,Returned,TRUE,FALSE,,Earth Orbit
+"51-A, Discovery",Space Shuttle,08-11-1984 12:15,16-11-1984 12:01,105,Returned,TRUE,FALSE,,Earth Orbit
+"51-C, Discovery",Space Shuttle,24-01-1985 19:50,27-01-1985 21:24,106,Returned,TRUE,FALSE,,Earth Orbit
+"51-D, Discovery",Space Shuttle,12-04-1985 13:59,19-04-1985 13:55,107,Returned,TRUE,FALSE,,Earth Orbit
+"51-B, Challenger",Space Shuttle,29-04-1985 16:02,06-05-1985 16:12,108,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz T-13,Soyuz-U2,06-06-1985 06:39,26-09-1985 09:51,109,Returned,TRUE,FALSE,Salyut 7,Other Space station
+"51-G, Discovery",Space Shuttle,17-06-1985 11:33,24-06-1985 13:13,110,Returned,TRUE,FALSE,,Earth Orbit
+"51-F, Challenger",Space Shuttle,29-07-1985 22:00,06-08-1985 20:46,111,Returned,TRUE,FALSE,,Earth Orbit
+"51-I, Discovery",Space Shuttle,27-08-1985 10:58,03-09-1985 13:16,112,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz T-14,Soyuz-U2,17-09-1985 12:38,21-11-1985 10:30,113,Returned,TRUE,FALSE,Salyut 7,Other Space station
+"51-J, Atlantis",Space Shuttle,03-10-1985 15:15,07-10-1985 17:01,114,Returned,TRUE,FALSE,,Earth Orbit
+"61-A, Challenger",Space Shuttle,30-10-1985 17:00,06-11-1985 17:46,115,Returned,TRUE,FALSE,,Earth Orbit
+"61-B, Atlantis",Space Shuttle,27-11-1985 00:29,03-12-1985 21:35,116,Returned,TRUE,FALSE,,Earth Orbit
+"61-C, Columbia",Space Shuttle,12-01-1986 11:55,18-01-1986 14:00,117,Returned,TRUE,FALSE,,Earth Orbit
+"51-L, Challenger",Space Shuttle,28-01-1986 16:38,28-01-1986 16:39,118,Fail-to-land,FALSE,FALSE,,Non-orbital space
+Soyuz T-15,Soyuz-U2,13-03-1986 12:33,16-07-1986 12:34,119,Returned,TRUE,FALSE,"Mir, Salyut 7",Mir
+Soyuz TM-2,Soyuz-U2,05-02-1987 21:38,30-07-1987 01:04,120,Returned,TRUE,FALSE,Mir,Mir
+Soyuz TM-3,Soyuz-U2,22-07-1987 01:59,29-12-1987 09:16,121,Returned,TRUE,FALSE,Mir,Mir
+Soyuz TM-4,Soyuz-U2,21-12-1987 11:18,17-06-1988 10:12,122,Returned,TRUE,FALSE,Mir,Mir
+Soyuz TM-5,Soyuz-U2,07-06-1988 21:38,07-09-1988 08:24,123,Returned,TRUE,FALSE,Mir,Mir
+Soyuz TM-6,Soyuz-U2,29-08-1988 04:23,21-12-1988 09:57,124,Returned,TRUE,FALSE,Mir,Mir
+"STS-26, Discovery",Space Shuttle,29-09-1988 15:37,03-10-1988 16:38,125,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz TM-7,Soyuz-U2,26-11-1988 14:49,27-04-1989 01:57,126,Returned,TRUE,FALSE,Mir,Mir
+"STS-27, Atlantis",Space Shuttle,02-12-1988 14:30,06-12-1988 23:36,127,Returned,TRUE,FALSE,,Earth Orbit
+"STS-29, Discovery",Space Shuttle,13-03-1989 14:57,18-03-1989 14:37,128,Returned,TRUE,FALSE,,Earth Orbit
+"STS-30, Atlantis",Space Shuttle,04-05-1989 18:46,08-05-1989 19:44,129,Returned,TRUE,FALSE,,Earth Orbit
+"STS-28, Columbia",Space Shuttle,08-08-1989 12:37,13-08-1989 13:38,130,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz TM-8,Soyuz-U2,05-09-1989 21:38,19-02-1990 04:36,131,Returned,TRUE,FALSE,Mir,Mir
+"STS-34, Atlantis",Space Shuttle,18-10-1989 16:53,23-10-1989 16:33,132,Returned,TRUE,FALSE,,Earth Orbit
+"STS-33, Discovery",Space Shuttle,23-11-1989 00:23,28-11-1989 00:31,133,Returned,TRUE,FALSE,,Earth Orbit
+"STS-32, Columbia",Space Shuttle,09-01-1990 12:35,20-01-1990 09:37,134,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz TM-9,Soyuz-U2,11-02-1990 06:16,09-08-1990 07:34,135,Returned,TRUE,FALSE,Mir,Mir
+"STS-36, Atlantis",Space Shuttle,28-02-1990 07:50,04-03-1990 18:09,136,Returned,TRUE,FALSE,,Earth Orbit
+"STS-31, Discovery",Space Shuttle,24-04-1990 12:33,29-04-1990 13:50,137,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz TM-10,Soyuz-U2,01-08-1990 09:32,10-12-1990 06:08,138,Returned,TRUE,FALSE,Mir,Mir
+"STS-41, Discovery",Space Shuttle,06-10-1990 11:47,10-10-1990 13:58,139,Returned,TRUE,FALSE,,Earth Orbit
+"STS-38, Atlantis",Space Shuttle,15-11-1990 23:48,20-11-1990 21:43,140,Returned,TRUE,FALSE,,Earth Orbit
+"STS-35, Columbia",Space Shuttle,02-12-1990 06:49,11-12-1990 05:55,141,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz TM-11,Soyuz-U2,02-12-1990 08:13,26-05-1991 10:04,142,Returned,TRUE,FALSE,Mir,Mir
+"STS-37, Atlantis",Space Shuttle,05-04-1991 14:22,11-04-1991 13:56,143,Returned,TRUE,FALSE,,Earth Orbit
+"STS-39, Discovery",Space Shuttle,28-04-1991 11:33,06-05-1991 18:56,144,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz TM-12,Soyuz-U2,18-05-1991 12:50,10-10-1991 04:12,145,Returned,TRUE,FALSE,Mir,Mir
+"STS-40, Columbia",Space Shuttle,05-06-1991 13:24,14-06-1991 15:39,146,Returned,TRUE,FALSE,,Earth Orbit
+"STS-43, Atlantis",Space Shuttle,02-08-1991 15:02,11-08-1991 12:24,147,Returned,TRUE,FALSE,,Earth Orbit
+"STS-48, Discovery",Space Shuttle,12-09-1991 23:11,18-09-1991 07:39,148,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz TM-13,Soyuz-U2,02-10-1991 05:59,25-03-1992 08:51,149,Returned,TRUE,FALSE,Mir,Mir
+"STS-44, Atlantis",Space Shuttle,24-11-1991 23:44,01-12-1991 22:36,150,Returned,TRUE,FALSE,,Earth Orbit
+"STS-42, Discovery",Space Shuttle,22-01-1992 14:52,30-01-1992 16:08,151,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz TM-14,Soyuz-U2,17-03-1992 10:54,10-08-1992 01:05,152,Returned,TRUE,FALSE,Mir,Mir
+"STS-45, Atlantis",Space Shuttle,24-03-1992 13:13,02-04-1992 11:23,153,Returned,TRUE,FALSE,,Earth Orbit
+"STS-49, Endeavour",Space Shuttle,07-05-1992 23:40,16-05-1992 20:59,154,Returned,TRUE,FALSE,,Earth Orbit
+"STS-50, Columbia",Space Shuttle,25-06-1992 16:12,09-07-1992 11:43,155,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz TM-15,Soyuz-U2,27-07-1992 06:08,01-02-1993 03:49,156,Returned,TRUE,FALSE,Mir,Mir
+"STS-46, Atlantis",Space Shuttle,31-07-1992 13:56,08-08-1992 13:12,157,Returned,TRUE,FALSE,,Earth Orbit
+"STS-47, Endeavour",Space Shuttle,12-09-1992 14:23,20-09-1992 12:54,158,Returned,TRUE,FALSE,,Earth Orbit
+"STS-52, Columbia",Space Shuttle,22-10-1992 17:09,01-11-1992 14:06,159,Returned,TRUE,FALSE,,Earth Orbit
+"STS-53, Discovery",Space Shuttle,02-12-1992 13:24,09-12-1992 20:45,160,Returned,TRUE,FALSE,,Earth Orbit
+"STS-54, Endeavour",Space Shuttle,13-01-1993 13:59,19-01-1993 13:38,161,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz TM-16,Soyuz-U2,24-01-1993 00:58,22-07-1993 01:42,162,Returned,TRUE,FALSE,Mir,Mir
+"STS-56, Discovery",Space Shuttle,08-04-1993 05:29,17-04-1993 11:38,163,Returned,TRUE,FALSE,,Earth Orbit
+"STS-55, Columbia",Space Shuttle,26-04-1993 14:50,06-05-1993 14:31,164,Returned,TRUE,FALSE,,Earth Orbit
+"STS-57, Endeavour",Space Shuttle,21-06-1993 13:07,01-07-1993 12:53,165,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz TM-17,Soyuz-U2,01-07-1993 14:32,14-01-1994 08:17,166,Returned,TRUE,FALSE,Mir,Mir
+"STS-51, Discovery",Space Shuttle,12-09-1993 11:45,22-09-1993 07:57,167,Returned,TRUE,FALSE,,Earth Orbit
+"STS-58, Columbia",Space Shuttle,18-10-1993 14:53,01-11-1993 15:07,168,Returned,TRUE,FALSE,,Earth Orbit
+"STS-61, Endeavour",Space Shuttle,02-12-1993 09:27,13-12-1993 05:26,169,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz TM-18,Soyuz-U2,08-01-1994 10:05,09-07-1994 10:32,170,Returned,TRUE,FALSE,Mir,Mir
+"STS-60, Discovery",Space Shuttle,03-02-1994 12:10,11-02-1994 19:20,171,Returned,TRUE,FALSE,,Earth Orbit
+"STS-62, Columbia",Space Shuttle,04-03-1994 13:53,18-03-1994 13:11,172,Returned,TRUE,FALSE,,Earth Orbit
+"STS-59, Endeavour",Space Shuttle,09-04-1994 11:05,20-04-1994 16:55,173,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz TM-19,Soyuz-U2,01-07-1994 12:24,04-11-1994 11:18,174,Returned,TRUE,FALSE,Mir,Mir
+"STS-65, Columbia",Space Shuttle,08-07-1994 04:43,22-07-1994 22:39,175,Returned,TRUE,FALSE,,Earth Orbit
+"STS-64, Discovery",Space Shuttle,09-09-1994 22:22,20-09-1994 21:13,176,Returned,TRUE,FALSE,,Earth Orbit
+"STS-68, Endeavour",Space Shuttle,30-09-1994 11:16,11-10-1994 17:03,177,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz TM-20,Soyuz-U2,03-10-1994 22:42,22-03-1995 04:04,178,Returned,TRUE,FALSE,Mir,Mir
+"STS-66, Atlantis",Space Shuttle,03-11-1994 16:59,14-11-1994 15:34,179,Returned,TRUE,FALSE,,Earth Orbit
+"STS-63, Discovery",Space Shuttle,03-02-1995 05:22,11-02-1995 11:52,180,Returned,TRUE,FALSE,,Earth Orbit
+"STS-67, Endeavour",Space Shuttle,02-03-1995 06:38,18-03-1995 21:48,181,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz TM-21,Soyuz-U2,14-03-1995 06:11,11-09-1995 06:52,182,Returned,TRUE,FALSE,Mir,Mir
+"STS-71, Atlantis",Space Shuttle,27-06-1995 19:32,07-07-1995 14:55,183,Returned,TRUE,FALSE,Mir,Mir
+"STS-70, Discovery",Space Shuttle,13-07-1995 13:41,22-07-1995 12:02,184,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz TM-22,Soyuz-U2,03-09-1995 09:00,29-02-1996 10:42,185,Returned,TRUE,FALSE,Mir,Mir
+"STS-69, Endeavour",Space Shuttle,07-09-1995 15:09,18-09-1995 11:39,186,Returned,TRUE,FALSE,,Earth Orbit
+"STS-73, Columbia",Space Shuttle,20-10-1995 13:53,05-11-1995 11:46,187,Returned,TRUE,FALSE,,Earth Orbit
+"STS-74, Atlantis",Space Shuttle,12-11-1995 12:30,20-11-1995 17:02,188,Returned,TRUE,FALSE,Mir,Mir
+"STS-72, Endeavour",Space Shuttle,11-01-1996 09:41,20-01-1996 07:43,189,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz TM-23,Soyuz-U,21-02-1996 12:34,02-09-1996 07:42,190,Returned,TRUE,FALSE,Mir,Mir
+"STS-75, Columbia",Space Shuttle,22-02-1996 20:18,09-03-1996 13:59,191,Returned,TRUE,FALSE,,Earth Orbit
+"STS-76, Atlantis",Space Shuttle,22-03-1996 08:13,31-03-1996 13:30,192,Returned,TRUE,FALSE,Mir,Mir
+"STS-77, Endeavour",Space Shuttle,19-05-1996 10:30,29-05-1996 11:10,193,Returned,TRUE,FALSE,,Earth Orbit
+"STS-78, Columbia",Space Shuttle,20-06-1996 14:49,07-07-1996 12:38,194,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz TM-24,Soyuz-U,17-08-1996 13:18,02-03-1997 06:44,195,Returned,TRUE,FALSE,Mir,Mir
+"STS-79, Atlantis",Space Shuttle,16-09-1996 08:54,26-09-1996 12:14,196,Returned,TRUE,FALSE,Mir,Mir
+"STS-80, Columbia",Space Shuttle,19-11-1996 19:55,07-12-1996 11:49,197,Returned,TRUE,FALSE,,Earth Orbit
+"STS-81, Atlantis",Space Shuttle,12-01-1997 09:27,22-01-1997 14:23,198,Returned,TRUE,FALSE,Mir,Mir
+Soyuz TM-25,Soyuz-U,10-02-1997 14:09,14-08-1997 12:17,199,Returned,TRUE,FALSE,Mir,Mir
+"STS-82, Discovery",Space Shuttle,11-02-1997 08:55,21-02-1997 08:33,200,Returned,TRUE,FALSE,,Earth Orbit
+"STS-83, Columbia",Space Shuttle,04-04-1997 19:20,08-04-1997 18:34,201,Returned,TRUE,FALSE,,Earth Orbit
+"STS-84, Atlantis",Space Shuttle,15-05-1997 08:07,24-05-1997 13:28,202,Returned,TRUE,FALSE,Mir,Mir
+"STS-94, Columbia",Space Shuttle,01-07-1997 18:02,17-07-1997 10:48,203,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz TM-26,Soyuz-U,05-08-1997 15:35,19-02-1998 09:10,204,Returned,TRUE,FALSE,Mir,Mir
+"STS-85, Discovery",Space Shuttle,07-08-1997 14:41,19-08-1997 11:09,205,Returned,TRUE,FALSE,,Earth Orbit
+"STS-86, Atlantis",Space Shuttle,25-09-1997 14:34,06-10-1997 09:56,206,Returned,TRUE,FALSE,Mir,Mir
+"STS-87, Columbia",Space Shuttle,19-11-1997 19:46,05-12-1997 12:21,207,Returned,TRUE,FALSE,,Earth Orbit
+"STS-89, Endeavour",Space Shuttle,23-01-1998 02:48,31-01-1998 22:36,208,Returned,TRUE,FALSE,Mir,Mir
+Soyuz TM-27,Soyuz-U,29-01-1998 16:33,25-08-1998 05:24,209,Returned,TRUE,FALSE,Mir,Mir
+"STS-90, Columbia",Space Shuttle,17-04-1998 18:19,03-05-1998 16:10,210,Returned,TRUE,FALSE,,Earth Orbit
+"STS-91, Discovery",Space Shuttle,02-06-1998 22:06,12-06-1998 18:01,211,Returned,TRUE,FALSE,Mir,Mir
+Soyuz TM-28,Soyuz-U,13-08-1998 09:43,28-02-1999 02:14,212,Returned,TRUE,FALSE,Mir,Mir
+"STS-95, Discovery",Space Shuttle,29-10-1998 19:19,07-11-1998 17:04,213,Returned,TRUE,FALSE,,Earth Orbit
+"STS-88, Endeavour",Space Shuttle,04-12-1998 08:35,16-12-1998 03:54,214,Returned,TRUE,FALSE,ISS,ISS
+Soyuz TM-29,Soyuz-U,20-02-1999 04:18,28-08-1999 00:34,215,Returned,TRUE,FALSE,Mir,Mir
+"STS-96, Discovery",Space Shuttle,27-05-1999 10:49,06-06-1999 06:03,216,Returned,TRUE,FALSE,ISS,ISS
+"STS-93, Columbia",Space Shuttle,23-07-1999 04:31,28-07-1999 03:21,217,Returned,TRUE,FALSE,,Earth Orbit
+"STS-103, Discovery",Space Shuttle,20-12-1999 00:50,28-12-1999 00:02,218,Returned,TRUE,FALSE,,Earth Orbit
+"STS-99, Endeavour",Space Shuttle,11-02-2000 16:43,22-02-2000 22:23,219,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz TM-30,Soyuz-U,04-04-2000 05:01,16-06-2000 00:43,220,Returned,TRUE,FALSE,Mir,Mir
+"STS-101, Atlantis",Space Shuttle,19-05-2000 10:11,29-05-2000 06:21,221,Returned,TRUE,FALSE,ISS,ISS
+"STS-106, Atlantis",Space Shuttle,08-09-2000 12:45,20-09-2000 07:57,222,Returned,TRUE,FALSE,ISS,ISS
+"STS-92, Discovery",Space Shuttle,11-10-2000 23:17,24-10-2000 21:01,223,Returned,TRUE,FALSE,ISS,ISS
+Soyuz TM-31,Soyuz-U,31-10-2000 07:52,06-05-2001 05:41,224,Returned,TRUE,FALSE,ISS,ISS
+"STS-97, Endeavour",Space Shuttle,01-12-2000 03:06,11-12-2000 23:04,225,Returned,TRUE,FALSE,ISS,ISS
+"STS-98, Atlantis",Space Shuttle,07-02-2001 23:13,20-02-2001 20:34,226,Returned,TRUE,FALSE,ISS,ISS
+"STS-102, Discovery",Space Shuttle,08-03-2001 11:42,21-03-2001 07:33,227,Returned,TRUE,FALSE,ISS,ISS
+"STS-100, Endeavour",Space Shuttle,19-04-2001 18:40,01-05-2001 16:11,228,Returned,TRUE,FALSE,ISS,ISS
+Soyuz TM-32,Soyuz-U,28-04-2001 07:37,31-10-2001 05:00,229,Returned,TRUE,FALSE,ISS,ISS
+"STS-104, Atlantis",Space Shuttle,12-07-2001 09:03,25-07-2001 03:40,230,Returned,TRUE,FALSE,ISS,ISS
+"STS-105, Discovery",Space Shuttle,10-08-2001 21:10,22-08-2001 18:24,231,Returned,TRUE,FALSE,ISS,ISS
+Soyuz TM-33,Soyuz-U,21-10-2001 08:59,05-05-2002 03:51,232,Returned,TRUE,FALSE,ISS,ISS
+"STS-108, Endeavour",Space Shuttle,05-12-2001 22:19,17-12-2001 17:56,233,Returned,TRUE,FALSE,ISS,ISS
+"STS-109, Columbia",Space Shuttle,01-03-2002 11:22,12-03-2002 09:33,234,Returned,TRUE,FALSE,,Earth Orbit
+"STS-110, Atlantis",Space Shuttle,08-04-2002 20:44,19-04-2002 16:28,235,Returned,TRUE,FALSE,ISS,ISS
+Soyuz TM-34,Soyuz-U,25-04-2002 06:26,10-11-2002 00:04,236,Returned,TRUE,FALSE,ISS,ISS
+"STS-111, Endeavour",Space Shuttle,05-06-2002 21:22,19-06-2002 17:58,237,Returned,TRUE,FALSE,ISS,ISS
+"STS-112, Atlantis",Space Shuttle,07-10-2002 19:45,18-10-2002 15:44,238,Returned,TRUE,FALSE,ISS,ISS
+Soyuz TMA-1,Soyuz-FG,30-10-2002 03:11,04-05-2003 02:04,239,Returned,TRUE,FALSE,ISS,ISS
+"STS-113, Endeavour",Space Shuttle,24-11-2002 00:49,07-12-2002 19:38,240,Returned,TRUE,FALSE,ISS,ISS
+"STS-107, Columbia",Space Shuttle,16-01-2003 15:39,01-02-2003 13:59,241,Fail-to-land,TRUE,FALSE,,Earth Orbit
+Soyuz TMA-2,Soyuz-FG,26-04-2003 03:53,27-10-2003 02:39,242,Returned,TRUE,FALSE,ISS,ISS
+Shenzhou 5,Long March 2F,15-10-2003 01:00,15-10-2003 22:22,243,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz TMA-3,Soyuz-FG,18-10-2003 05:38,30-04-2004 00:11,244,Returned,TRUE,FALSE,ISS,ISS
+Soyuz TMA-4,Soyuz-FG,19-04-2004 03:19,24-10-2004 00:35,245,Returned,TRUE,FALSE,ISS,ISS
+"SpaceShipOne, Flight 15",SpaceShipOne,21-06-2004 14:47,21-06-2004 15:11,246,Returned,FALSE,FALSE,,Non-orbital space
+"SpaceShipOne, Flight 16",SpaceShipOne,29-09-2004 15:12,29-09-2004 15:36,247,Returned,FALSE,FALSE,,Non-orbital space
+"SpaceShipOne, Flight 17",SpaceShipOne,04-10-2004 14:49,04-10-2004 15:12,248,Returned,FALSE,FALSE,,Non-orbital space
+Soyuz TMA-5,Soyuz-FG,14-10-2004 03:06,24-04-2005 22:08,249,Returned,TRUE,FALSE,ISS,ISS
+Soyuz TMA-6,Soyuz-FG,15-04-2005 00:46,11-10-2005 01:09,250,Returned,TRUE,FALSE,ISS,ISS
+"STS-114, Discovery",Space Shuttle,26-07-2005 14:39,09-08-2005 12:12,251,Returned,TRUE,FALSE,ISS,ISS
+Soyuz TMA-7,Soyuz-FG,01-10-2005 03:54,08-04-2006 23:47,252,Returned,TRUE,FALSE,ISS,ISS
+Shenzhou 6,Long March 2F,12-10-2005 01:00,16-10-2005 20:33,253,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz TMA-8,Soyuz-FG,30-03-2006 02:30,29-09-2006 01:13,254,Returned,TRUE,FALSE,ISS,ISS
+"STS-121, Discovery",Space Shuttle,04-07-2006 18:37,17-07-2006 13:14,255,Returned,TRUE,FALSE,ISS,ISS
+"STS-115, Atlantis",Space Shuttle,09-09-2006 15:14,21-09-2006 10:21,256,Returned,TRUE,FALSE,ISS,ISS
+Soyuz TMA-9,Soyuz-FG,18-09-2006 04:08,21-04-2007 12:31,257,Returned,TRUE,FALSE,ISS,ISS
+"STS-116, Discovery",Space Shuttle,09-12-2006 00:47,21-12-2006 21:32,258,Returned,TRUE,FALSE,ISS,ISS
+Soyuz TMA-10,Soyuz-FG,07-04-2007 17:31,21-10-2007 10:36,259,Returned,TRUE,FALSE,ISS,ISS
+"STS-117, Atlantis",Space Shuttle,08-06-2007 23:38,22-06-2007 19:50,260,Returned,TRUE,FALSE,ISS,ISS
+"STS-118, Endeavour",Space Shuttle,08-08-2007 22:36,21-08-2007 16:32,261,Returned,TRUE,FALSE,ISS,ISS
+Soyuz TMA-11,Soyuz-FG,10-10-2007 13:22,19-04-2008 08:29,262,Returned,TRUE,FALSE,ISS,ISS
+"STS-120, Discovery",Space Shuttle,23-10-2007 03:38,07-11-2007 06:02,263,Returned,TRUE,FALSE,ISS,ISS
+"STS-122, Atlantis",Space Shuttle,07-02-2008 19:45,20-02-2008 14:07,264,Returned,TRUE,FALSE,ISS,ISS
+"STS-123, Endeavour",Space Shuttle,11-03-2008 06:28,27-03-2008 00:40,265,Returned,TRUE,FALSE,ISS,ISS
+Soyuz TMA-12,Soyuz-FG,08-04-2008 11:16,24-10-2008 03:36,266,Returned,TRUE,FALSE,ISS,ISS
+"STS-124, Discovery",Space Shuttle,31-05-2008 21:02,14-06-2008 15:15,267,Returned,TRUE,FALSE,ISS,ISS
+Shenzhou 7,Long March 2F,25-09-2008 13:10,28-09-2008 09:37,268,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz TMA-13,Soyuz-FG,12-10-2008 07:01,08-04-2009 07:15,269,Returned,TRUE,FALSE,ISS,ISS
+"STS-126, Endeavour",Space Shuttle,15-11-2008 00:55,30-11-2008 21:25,270,Returned,TRUE,FALSE,ISS,ISS
+"STS-119, Discovery",Space Shuttle,15-03-2009 23:43,28-03-2009 19:13,271,Returned,TRUE,FALSE,ISS,ISS
+Soyuz TMA-14,Soyuz-FG,26-03-2009 11:49,11-10-2009 04:31,272,Returned,TRUE,FALSE,ISS,ISS
+"STS-125, Atlantis",Space Shuttle,11-05-2009 18:01,24-05-2009 15:38,273,Returned,TRUE,FALSE,,Earth Orbit
+Soyuz TMA-15,Soyuz-FG,27-05-2009 10:34,01-12-2009 07:15,274,Returned,TRUE,FALSE,ISS,ISS
+"STS-127, Endeavour",Space Shuttle,15-07-2009 22:03,31-07-2009 14:48,275,Returned,TRUE,FALSE,ISS,ISS
+"STS-128, Discovery",Space Shuttle,29-08-2009 03:59,12-09-2009 00:53,276,Returned,TRUE,FALSE,ISS,ISS
+Soyuz TMA-16,Soyuz-FG,30-09-2009 07:14,18-03-2010 11:24,277,Returned,TRUE,FALSE,ISS,ISS
+"STS-129, Atlantis",Space Shuttle,16-11-2009 19:28,27-11-2009 14:44,278,Returned,TRUE,FALSE,ISS,ISS
+Soyuz TMA-17,Soyuz-FG,20-12-2009 21:52,02-06-2010 03:24,279,Returned,TRUE,FALSE,ISS,ISS
+"STS-130, Endeavour",Space Shuttle,08-02-2010 09:14,22-02-2010 03:22,280,Returned,TRUE,FALSE,ISS,ISS
+Soyuz TMA-18,Soyuz-FG,02-04-2010 04:04,25-09-2010 05:23,281,Returned,TRUE,FALSE,ISS,ISS
+"STS-131, Discovery",Space Shuttle,05-04-2010 10:21,20-04-2010 13:08,282,Returned,TRUE,FALSE,ISS,ISS
+"STS-132, Atlantis",Space Shuttle,14-05-2010 18:20,26-05-2010 12:49,283,Returned,TRUE,FALSE,ISS,ISS
+Soyuz TMA-19,Soyuz-FG,15-06-2010 21:35,26-11-2010 04:46,284,Returned,TRUE,FALSE,ISS,ISS
+Soyuz TMA-01M,Soyuz-FG,07-10-2010 23:10,16-03-2011 07:53,285,Returned,TRUE,FALSE,ISS,ISS
+Soyuz TMA-20,Soyuz-FG,15-12-2010 19:09,24-05-2011 02:27,286,Returned,TRUE,FALSE,ISS,ISS
+"STS-133, Discovery",Space Shuttle,24-02-2011 21:53,09-03-2011 16:58,287,Returned,TRUE,FALSE,ISS,ISS
+Soyuz TMA-21,Soyuz-FG,04-04-2011 22:18,16-09-2011 03:59,288,Returned,TRUE,FALSE,ISS,ISS
+"STS-134, Endeavour",Space Shuttle,16-05-2011 12:56,01-06-2011 06:35,289,Returned,TRUE,FALSE,ISS,ISS
+Soyuz TMA-02M,Soyuz-FG,07-06-2011 20:12,22-11-2011 02:26,290,Returned,TRUE,FALSE,ISS,ISS
+"STS-135, Atlantis",Space Shuttle,08-07-2011 15:29,21-07-2011 09:58,291,Returned,TRUE,FALSE,ISS,ISS
+Soyuz TMA-22,Soyuz-FG,14-11-2011 04:14,27-04-2012 11:45,292,Returned,TRUE,FALSE,ISS,ISS
+Soyuz TMA-03M,Soyuz-FG,21-12-2011 13:16,01-07-2012 08:14,293,Returned,TRUE,FALSE,ISS,ISS
+Soyuz TMA-04M,Soyuz-FG,15-05-2012 03:01,17-09-2012 02:53,294,Returned,TRUE,FALSE,ISS,ISS
+Shenzhou 9,Long March 2F,16-06-2012 10:37,29-06-2012 02:01,295,Returned,TRUE,FALSE,Tiangong-1,Other Space station
+Soyuz TMA-05M,Soyuz-FG,15-07-2012 02:40,19-11-2012 01:53,296,Returned,TRUE,FALSE,ISS,ISS
+Soyuz TMA-06M,Soyuz-FG,23-10-2012 10:51,16-03-2013 03:11,297,Returned,TRUE,FALSE,ISS,ISS
+Soyuz TMA-07M,Soyuz-FG,19-12-2012 12:12,14-05-2013 02:30,298,Returned,TRUE,FALSE,ISS,ISS
+Soyuz TMA-08M,Soyuz-FG,28-03-2013 20:43,11-09-2013 02:58,299,Returned,TRUE,FALSE,ISS,ISS
+Soyuz TMA-09M,Soyuz-FG,28-05-2013 20:31,11-11-2013 02:49,300,Returned,TRUE,FALSE,ISS,ISS
+Shenzhou 10,Long March 2F,11-06-2013 09:38,26-06-2013 00:07,301,Returned,TRUE,FALSE,Tiangong-1,Other Space station
+Soyuz TMA-10M,Soyuz-FG,25-09-2013 20:58,11-03-2014 03:23,302,Returned,TRUE,FALSE,ISS,ISS
+Soyuz TMA-11M,Soyuz-FG,07-11-2013 04:14,14-05-2014 01:58,303,Returned,TRUE,FALSE,ISS,ISS
+Soyuz TMA-12M,Soyuz-FG,25-03-2014 21:17,11-09-2014 02:23,304,Returned,TRUE,FALSE,ISS,ISS
+Soyuz TMA-13M,Soyuz-FG,28-05-2014 19:57,10-11-2014 03:57,305,Returned,TRUE,FALSE,ISS,ISS
+Soyuz TMA-14M,Soyuz-FG,25-09-2014 20:25,12-03-2015 02:07,306,Returned,TRUE,FALSE,ISS,ISS
+Soyuz TMA-15M,Soyuz-FG,23-11-2014 21:01,11-06-2015 13:44,307,Returned,TRUE,FALSE,ISS,ISS
+Soyuz TMA-16M,Soyuz-FG,27-03-2015 19:42,12-09-2015 00:50,308,Returned,TRUE,FALSE,ISS,ISS
+Soyuz TMA-17M,Soyuz-FG,22-07-2015 21:02,11-12-2015 13:12,309,Returned,TRUE,FALSE,ISS,ISS
+Soyuz TMA-18M,Soyuz-FG,02-09-2015 04:37,02-03-2016 04:25,310,Returned,TRUE,FALSE,ISS,ISS
+Soyuz TMA-19M,Soyuz-FG,15-12-2015 11:03,18-06-2016 09:15,311,Returned,TRUE,FALSE,ISS,ISS
+Soyuz TMA-20M,Soyuz-FG,18-03-2016 21:26,07-09-2016 01:13,312,Returned,TRUE,FALSE,ISS,ISS
+Soyuz MS-01,Soyuz-FG,07-07-2016 01:36,30-10-2016 03:58,313,Returned,TRUE,FALSE,ISS,ISS
+Shenzhou 11,Long March 2F,16-10-2016 23:30,18-11-2016 05:59,314,Returned,TRUE,FALSE,Tiangong-2,Other Space station
+Soyuz MS-02,Soyuz-FG,19-10-2016 08:05,10-04-2017 11:20,315,Returned,TRUE,FALSE,ISS,ISS
+Soyuz MS-03,Soyuz-FG,17-11-2016 20:17,02-06-2017 14:10,316,Returned,TRUE,FALSE,ISS,ISS
+Soyuz MS-04,Soyuz-FG,02-04-2017 07:13,03-09-2017 01:22,317,Returned,TRUE,FALSE,ISS,ISS
+Soyuz MS-05,Soyuz-FG,28-07-2017 15:41,14-12-2017 08:38,318,Returned,TRUE,FALSE,ISS,ISS
+Soyuz MS-06,Soyuz-FG,12-09-2017 21:17,28-02-2018 02:31,319,Returned,TRUE,FALSE,ISS,ISS
+Soyuz MS-07,Soyuz-FG,17-12-2017 07:21,03-06-2018 12:39,320,Returned,TRUE,FALSE,ISS,ISS
+Soyuz MS-08,Soyuz-FG,21-03-2018 17:44,04-10-2018 11:45,321,Returned,TRUE,FALSE,ISS,ISS
+Soyuz MS-09,Soyuz-FG,06-06-2018 11:12,20-12-2018 05:02,322,Returned,TRUE,FALSE,ISS,ISS
+Soyuz MS-10,Soyuz-FG,11-10-2018 08:40,11-10-2018 08:59,323,Returned,FALSE,FALSE,,Non-orbital space
+Soyuz MS-11,Soyuz-FG,03-12-2018 11:31,25-06-2019 02:47,324,Returned,TRUE,FALSE,ISS,ISS
+Soyuz MS-12,Soyuz-FG,14-03-2019 19:14,03-10-2019 10:59,325,Returned,TRUE,FALSE,ISS,ISS
+Soyuz MS-13,Soyuz-FG,20-07-2019 16:28,06-02-2020 09:12,326,Returned,TRUE,FALSE,ISS,ISS
+Soyuz MS-15,Soyuz-FG,25-09-2019 13:57,17-04-2020 05:16,327,Returned,TRUE,FALSE,ISS,ISS
+Soyuz MS-16,Soyuz-2.1a,09-04-2020 08:05,,328,Active,TRUE,FALSE,ISS,ISS
+SpaceX Demo-2,Falcon 9 FT,30-05-2020 19:22,02-08-2020 18:48,329,Returned,TRUE,FALSE,ISS,ISS
